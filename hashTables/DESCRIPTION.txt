@@ -1,0 +1,4 @@
+Wordpuzzle game. The goal of this program is to receive a word puzzle on a grid of any size
+whereby the program must go through and find where dictionary words exist in the grid
+Words are stored using a hashcode algorithm which assigns each word to a spot in the
+hashtable for storage and for later extraction

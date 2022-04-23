@@ -1,0 +1,1 @@
+Used huffman trees for file decompression. Read in a file with prefix codes and decompressed the file through decoding. Stores the prefix codes in a Huffman tree in order to insert and extract values
